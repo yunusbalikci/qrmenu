@@ -1,9 +1,10 @@
 import React from 'react'
+import menu1 from './assets/menu_page-0001.jpg'
 
 function Page() {
   return (
     <div className='md:flex flex-wrap'>
-        <img src="src/assets/menu_page-0001.jpg" className='w-full h-full md:w-1/2' alt="" />
+        <img src={menu1} className='w-full h-full md:w-1/2' alt="" />
         <img src="src/assets/menu_page-0002.jpg" className='w-full h-full md:w-1/2' alt="" />
         <img src="src/assets/menu_page-0003.jpg" className='w-full h-full md:w-1/2' alt="" />
         <img src="src/assets/menu_page-0004.jpg" className='w-full h-full md:w-1/2' alt="" />
