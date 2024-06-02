@@ -1,11 +1,11 @@
 import React from 'react'
-import menu1 from './assets/menu_page-0001.jpg'
-import menu2 from './assets/menu_page-0002.jpg'
-import menu3 from './assets/menu_page-0003.jpg'
-import menu4 from './assets/menu_page-0004.jpg'
-import menu5 from './assets/menu_page-0005.jpg'
-import menu6 from './assets/menu_page-0006.jpg'
-import menu7 from './assets/menu_page-0007.jpg'
+import menu1 from './assets/1.jpg'
+import menu2 from './assets/2.jpg'
+import menu3 from './assets/3.jpg'
+import menu4 from './assets/4.jpg'
+import menu5 from './assets/5.jpg'
+import menu6 from './assets/6.jpg'
+import menu7 from './assets/7.jpg'
 
 function Page() {
   return (
