@@ -5,7 +5,6 @@ import menu3 from './assets/3.png'
 import menu4 from './assets/4.png'
 import menu5 from './assets/5.png'
 import menu6 from './assets/6.png'
-import menu7 from './assets/7.png'
 
 function Page() {
   return (
@@ -16,7 +15,6 @@ function Page() {
         <img src={menu4} className='w-full h-full md:w-1/2' alt="" />
         <img src={menu5} className='w-full h-full md:w-1/2' alt="" />
         <img src={menu6} className='w-full h-full md:w-1/2' alt="" />
-        <img src={menu7} className='w-full h-full md:w-1/2' alt="" />
     </div>
   )
 }
